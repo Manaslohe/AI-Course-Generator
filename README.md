@@ -129,6 +129,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@manas-lohe](https://www.linkedin.com/in/manas-lohe-974348220/)
 
-Project Link: [https://github.com/yourusername/ai-course-generator](https://github.com/yourusername/ai-course-generator)
+Project Link: [https://github.com/Manaslohe/AI-Course-Generator](https://github.com/Manaslohe/AI-Course-Generator)
